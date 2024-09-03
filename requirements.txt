@@ -1,0 +1,8 @@
+Flask==2.0.2  # Flask web framework
+requests==2.26.0  # For making HTTP requests to the Hugging Face API
+gunicorn==20.1.0  # WSGI HTTP Server for deployment
+
+# Additional dependencies (optional)
+# python-dotenv==0.19.2  # If you're using .env file for environment variables
+
+# You can specify other dependencies if needed
